@@ -1,0 +1,23 @@
+{
+  "name": "adapt-nakedMedia",
+  "version": "0.0.1",
+  "description": "A naked media component",
+  "main": "",
+  "scripts": {
+    "test": "./node_modules/.bin/karma start --single-run --browsers PhantomJS"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/adamlaird/adapt-nakedMedia.git"
+  },
+  "author": "Adam Laird",
+  "license": "GPL v3",
+  "bugs": {
+    "url": "https://github.com/adamlaird/adapt-nakedMedia/issues"
+  },
+  "devDependencies": {
+    "karma": "~0.10",
+    "karma-mocha": "*",
+    "karma-expect": "*"
+  }
+}

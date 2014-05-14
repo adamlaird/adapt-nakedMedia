@@ -1,0 +1,15 @@
+{
+  "name": "adapt-nakedMedia",
+  "version": "0.0.1",
+  "homepage": "https://github.com/adamlaird/adapt-nakedMedia",
+  "authors": [
+    "Adam Laird <adam.laird@me.com>"
+  ],
+  "description": "naked and stripped version of adapt-contrib-media with no auto rewind - Playback of video and audio with a Flash Player fallback for IE8+",
+  "main": "/js/adapt-nakedMedia.js",
+  "keywords": [
+    "adapt-plugin",
+    "adapt-component"
+  ],
+  "license": "GPLv3"
+}
